@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Gavião</h1>
 <h3 align="center">Estudante de Ciência da Computção</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgaviao&label=Profile%20views&color=b40e0e&style=flat" alt="lucasgaviao" /> </p>
+
 
 - 🌱 Estou estudando **HTML, CSS e JavaScript**
 
