@@ -5,7 +5,6 @@
 
 - 🌱 Estou estudando **HTML, CSS e JavaScript**
 
-- ⚡ **Me considero engraçado**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
