@@ -17,7 +17,6 @@
 ## 📌 Estatisticas:
 
 <p>
-    
 <img
     align="left" 
     alt="GitHub Stats" 
@@ -29,19 +28,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    src="https://streak-stats.demolab.com/?user=LucasGaviao&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGaviao&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## 🔗 Minhas Redes:
-<p align="left">
-    <a href="https://www.linkedin.com/in/lucas-gaviao-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gavião" height="30" width="40" /></a>
-    <a href="https://instagram.com/lucaasgaviao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaasgaviao" height="30" width="40" /></a>
-</p>
