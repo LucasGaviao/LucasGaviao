@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Bacharelado em Ciência da Computação - UFF
 
-- 📚 Aprendendo **HTML, CSS e JavaScript**
+- 📚 Aprendendo **Dart & Flutter**
 
 
 ## 💡 Tecnologias:
