@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Bacharelado em Ciência da Computação - UFF
 
-- 📚 Aprendendo **Dart & Flutter**
+- 🎲 Engenheiro de Dados em <a href="https://investsmart.com.br/">InvestSmart</a> (Estágio)
 
 
 ## 💡 Tecnologias:
